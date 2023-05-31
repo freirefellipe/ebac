@@ -11,6 +11,7 @@ Em **Analytics** vocês encontrará programas de diversas funcionalidades, que l
 informações provenientes de dados, elaborados por você, ou carregados na internet.
 
 Aproveite bem as funcionalidades do nosso projeto **Analytics**.
+
 ---------------
 On **Analytics** you are going to find programs of various funcionalties, that will allow you to 
 
