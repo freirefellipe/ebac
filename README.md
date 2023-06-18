@@ -1,7 +1,7 @@
-# Ebac
+# EBAC
 ### These are my codes developed during my course with EBAC school | Esses são meus códigos desenvolvidos durante meu curso na EBAC
 ---------------
-Em **Ebac** vocês encontrará programas de diversas funcionalidades, que lhe permitirão
+Em **EBAC** vocês encontrará programas de diversas funcionalidades, que lhe permitirão
 
 * ***buscar***
 * ***extrair***
@@ -10,10 +10,10 @@ Em **Ebac** vocês encontrará programas de diversas funcionalidades, que lhe pe
 
 informações provenientes de dados, elaborados por você, ou carregados na internet.
 
-Aproveite bem as funcionalidades do nosso projeto **Ebac**.
+Aproveite bem as funcionalidades do nosso projeto **EBAC**.
 
 ---------------
-On **Ebac** you are going to find programs of various funcionalties, that will allow you to 
+On **EBAC** you are going to find programs of various funcionalties, that will allow you to 
 
 * ***search***
 * ***extract***
@@ -22,4 +22,4 @@ On **Ebac** you are going to find programs of various funcionalties, that will a
 
 information from created or existing data.
 
-Make good use of the functinalities of our project **Ebac**.
+Make good use of the functinalities of our project **EBAC**.
