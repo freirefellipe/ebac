@@ -18,14 +18,14 @@ os.environ['GITHUB_USER'] = username
 
 
 #usermail = getpass() # variável usermail recebe a função getpass() do pacote getpass
-usermail = 'freirefellipe@gmail.com'
+usermail = getpass()
 os.environ['GITHUB_MAIL'] = usermail
 
 #!git config --global user.mail '${GITHUB_MAIL}'
 
  # token
 
-usertoken = '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'
+usertoken = getpass()
 os.environ['GITHUB_TOKEN'] = usertoken
 
 
