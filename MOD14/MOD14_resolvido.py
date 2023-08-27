@@ -39,4 +39,4 @@ flights10years_graph.get_figure.savefig('flights10years.png')
 
 #
 
-print('Fim do Script.')
+print('-Fim do Script-')
